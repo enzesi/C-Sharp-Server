@@ -1,0 +1,6 @@
+/Users/enzesi/github/C#server/C-Sharp-Server/simplehttpserver/simplehttpserver/bin/Debug/simplehttpserver.exe
+/Users/enzesi/github/C#server/C-Sharp-Server/simplehttpserver/simplehttpserver/bin/Debug/simplehttpserver.pdb
+/Users/enzesi/github/C#server/C-Sharp-Server/simplehttpserver/simplehttpserver/obj/x86/Debug/simplehttpserver.csprojAssemblyReference.cache
+/Users/enzesi/github/C#server/C-Sharp-Server/simplehttpserver/simplehttpserver/obj/x86/Debug/simplehttpserver.csproj.CoreCompileInputs.cache
+/Users/enzesi/github/C#server/C-Sharp-Server/simplehttpserver/simplehttpserver/obj/x86/Debug/simplehttpserver.exe
+/Users/enzesi/github/C#server/C-Sharp-Server/simplehttpserver/simplehttpserver/obj/x86/Debug/simplehttpserver.pdb
